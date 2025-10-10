@@ -14,7 +14,7 @@
 ### 🚀 About Me
 
 I'm **Ahsan**, a passionate **Front-End Developer** currently working at **Coding Force**, focused on building **modern, animated, and responsive** web experiences.  
-I also run my own agency — **[Shop Launch](#)** — helping brands and startups launch beautiful and high-performing websites.
+I also helping brands and startups launch beautiful and high-performing websites.
 
 - ⚡ Expert in **React**, **Vue**, and **Tailwind CSS**  
 - ✨ Love using **GSAP** & **AOS** to bring interfaces to life  
