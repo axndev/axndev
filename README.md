@@ -3,9 +3,7 @@
 I'm Kaleemullah Ahsan, a **Front-End Developer & WordPress Specialist** building modern, responsive, and animated web experiences.  
 I bring **Figma designs to life**, craft **custom WordPress themes**, and sprinkle **GSAP & AOS animations** to make UI feel alive.  
 
-JavaScript is my main playground  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-but I also enjoy exploring **React**, **Vue**, **Tailwind**, and **WordPress** development.
+JavaScript is my main playground ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) but I also enjoy exploring **React**, **Vue**, **Tailwind**, and **WordPress** development.
 
 I love clean UI, smooth UX, and micro-interactions that turn a website into an **experience**, not just a page.
 
