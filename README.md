@@ -9,7 +9,6 @@ but I also enjoy exploring **React**, **Vue**, **Tailwind**, and **WordPress** d
 
 I love clean UI, smooth UX, and micro-interactions that turn a website into an **experience**, not just a page.
 
----
 
 ### Code in Numbers  
 > Lines written, websites built, and designs converted. Auto-updated weekly.
@@ -27,8 +26,6 @@ Other --> 15,420 lines
 [ TOTAL LINES OF CODE: 244,635 ]
 ```
 <!-- LANGUAGES BREAKDOWN END -->
-
----
 
 ### Want to connect?  
 Drop me a mail at [ahxandev@gmail.com](mailto:ahxandev@gmail.com).  
